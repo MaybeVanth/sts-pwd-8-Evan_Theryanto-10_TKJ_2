@@ -35,3 +35,4 @@ Nomor Telepon: 0804 1 807 807 atau +62 21 2351 9999
 ## Pernyataan Integritas Akademik
 Saya menyatakan bahwa riset dan kode ini saya kerjakan sendiri. AI hanya digunakan sebagai bantuan penjelasan konsep, bukan untuk menghasilkan jawaban akhir secara langsung.
 ## Link menuju ke index.html
+https://github.com/MaybeVanth/sts-pwd-8-Evan_Theryanto-10_TKJ_2c
